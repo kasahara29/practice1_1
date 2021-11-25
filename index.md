@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to 20120029 H_K Pages
 
-You can use the [editor on GitHub](https://github.com/kasahara29/practice1_1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+今現在、私は大学でWEB　API学習に努めています。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+その練習の場として、このアカウント、ページ等をUPしています。
 
-### Markdown
+### affiliation
+情報学部　モノづくり、ドローン研究会等に所属
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# keyword 1
+## keyword 2
 
-- Bulleted
-- List
+- drawn
+- nodeRED
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+1. TELLO edu
+2. IoT
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kasahara29/practice1_1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
