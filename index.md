@@ -10,14 +10,14 @@
 
 
 # keyword 1
-## keyword 2
-
 - drawn
-- nodeRED
-
+- IoT
+## keyword 2
+-drown
 1. TELLO edu
-2. IoT
+2. nodeRED
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see 
+nisikawa顧問のご指導の下、特別講師の話をお伺いし研究を進めています。
 
 
